@@ -1,0 +1,21 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+        #myTable {
+    background-color: rgb(131, 175, 146);
+    color: black;
+    padding: 15px;
+    text-align: center;
+  } 
+         <!--Table Info-->
+          table, th, td {
+            border: 1.5px solid #9eb49b;
+          }
+          table.center {
+            margin-left: auto;
+            margin-right: auto;
+          }
+  
+  
